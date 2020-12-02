@@ -1,0 +1,4 @@
+question
+- In index.tsx what is React.StrictMode?
+- what is React.PropsWithChildren<ColumnProps> -- that can enhance props interface and add a definition for children 
+- useRef logic
